@@ -12,6 +12,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #838fa0;
 }
 
 .container {
@@ -36,7 +37,8 @@ body {
 
 #editor {
     width: 100%;
-    min-height: 500px;
+    height: fit-content;
+    min-height: 100vh;
     resize: vertical;
     border: 1px solid #ddd;
     border-radius: 4px;
