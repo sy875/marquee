@@ -78,6 +78,8 @@ This project is open source. Please check the LICENSE file for details.
 
 ## Screenshots
 
-![Markdown Previewer Screenshot](https://via.placeholder.com/800x400)
+![Markdown Previewer Screenshot]
+![image](https://github.com/user-attachments/assets/897b99a1-4296-40c0-bbce-73ed446a45a0)
+
 
 *Note: Replace the placeholder screenshot with an actual screenshot of your application*
